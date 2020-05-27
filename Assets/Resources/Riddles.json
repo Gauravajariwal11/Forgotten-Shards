@@ -1,0 +1,248 @@
+{
+    "allQuestData": [
+        {
+            "name": "Riddles",
+            "timeUsedinSeconds": 0,
+            "pointsAddedForCorrectAnswer": 100,
+            "lives": 3,
+            "num_hints":  3,
+            "riddles": [
+                {
+                    "riddleText": "Mr. and Mrs. Mustard have six daughters and each daughter has one brother. How many people are in the Mustard family?",
+                    "answer": "9",
+                    "hints": [
+                        "Similarly, each daughter has five sisters.",
+                        "No daughter has more than one brother.",
+                        "Parents are people too."
+                    ]
+                },
+                {
+                    "riddleText": "When asked how old she was, Suzie replied, \"In two years I will be twice as old as I was five years ago.\" How old is she?",
+                    "answer": "12",
+                    "hints": [
+                        "If the current age is x, Suzie was x - 5 years old five years ago.",
+                        "In two years, Suzie will be x + 2 years old",
+                        "In relation to five years ago, Suzie will be 2(x - 5) years old in two years."
+                    ]
+                },
+                {
+                    "riddleText": "I am a three digit number. My tens digit is five more than my ones digit. My hundreds digit is eight less than my tens digit. What number am I?",
+                    "answer": "194",
+                    "hints": [
+                        "Each digit can have a value between 0 and 9.",
+                        "The hundreds digit cannot be 0.",
+                        "There is only one possible value for the tens digit."
+                    ]
+                },
+                {
+                    "riddleText": "If seven people meet each other and each shakes hands only once with each of the others, how many handshakes will there have been?",
+                    "answer": "21",
+                    "hints": [
+                        "No person shakes hands 7 times.",
+                        "Only the first person shakes hands 6 times.",
+                        "After the first person has shaken everyone else's hands, no one has to shake the first person's hand anymore."
+                    ]
+                },
+                {
+                    "riddleText": "When my father was 31, I was 8. Now he is twice as old as me. How old am I?",
+                    "answer": "23",
+                    "hints": [
+                        "Figure out the age difference between father and child.",
+                        "If the father's age is x, the child's age is x - 23.",
+                        "When is x equal to 2(x - 23)?"
+                    ]
+                },
+                {
+                    "riddleText": "A grandfather, two fathers and two sons went to the movie theater together and everyone bought one movie ticket each. How many tickets did they buy in total?",
+                    "answer": "3",
+                    "hints": [
+                        "One person can have multiple roles.",
+                        "A grandfather is also a father.",
+                        "A father is also a son."
+                    ]
+                },
+                {
+                    "riddleText": "If you buy a rooster for the purpose of laying eggs and you expect to get three eggs each day for breakfast, how many eggs will you have after three weeks?",
+                    "answer": "0",
+                    "hints": [
+                        "Read the question again carefully.",
+                        "What animal gives us breakfast eggs?",
+                        "What is the difference between chicken and rooster?"
+                    ]
+                },
+                {
+                    "riddleText": "A little boy goes shopping and purchases 12 tomatoes. On the way home, all but 9 get mushed and ruined. How many tomatoes are left in a good condition?",
+                    "answer": "9",
+                    "hints": [
+                        "How many tomatoes get mushed?",
+                        "Come on now...",
+                        "Read the second sentence again carefully"
+                    ]
+                },
+                {
+                    "riddleText": "There are several books on a bookshelf. If one book is the 4th from the left and 6th from the right, how many books are on the shelf?",
+                    "answer": "9",
+                    "hints": [
+                        "How many books are on each side of the book in question?",
+                        "4th from the left means there are 3 books on the left.",
+                        "Remember to include the book from the description in your count."
+                    ]
+                },
+                {
+                    "riddleText": "A farmer has 17 sheep and all but 9 die. How many are left?",
+                    "answer": "9",
+                    "hints": [
+                        "How many sheep die?",
+                        "This one's easy, you can do it!",
+                        "Read the first sentence again, carefully."
+                    ]
+                },
+                {
+                    "riddleText": "David's father has three sons : Snap, Crackle and _____ ?",
+                    "answer": "david",
+                    "hints": [
+                        "Whose father has three sons?",
+                        "Who is David?",
+                        "I really don't know what else to tell you..."
+                    ]
+                },
+                {
+                    "riddleText": "What room do ghosts avoid?",
+                    "answer": "living room",
+                    "hints": [
+                        "Ghosts are DEAD people.",
+                        "They avoid the opposite of what they are.",
+                        "It is usually quite lively in this room."
+                    ]
+                },
+                {
+                    "riddleText": "What is the only 5 letter word that becomes larger when you add the letter \"r\" to it?",
+                    "answer": "large",
+                    "hints": [
+                        "The word is already large.",
+                        "The answer is contained in the riddle.",
+                        "When you take away the \"r\", the word becomes large."
+                    ]
+                },
+                {
+                    "riddleText": "I am bought by the yard but worn by the foot. What am I?",
+                    "answer": "carpet",
+                    "hints": [
+                        "\"Worn\" as in \"worn down\"",
+                        "You can wear something down by stepping on it.",
+                        "Textiles are usually sold by the yard."
+                    ]
+                },
+                {
+                    "riddleText": "Marking mortal privation when what's under me is in place. An enduring summation, inscribed on my face. What am I?",
+                    "answer": "tombstone",
+                    "hints": [
+                        "Marks spots with a severe lack of life.",
+                        "Barely changes its appearance over decades and even centuries.",
+                        "Contains summaries of life and love."
+                    ]
+                },
+                {
+                    "riddleText": "I can travel from there to here by disappearing, and here to there by reappearing. What am I?",
+                    "answer": "t",
+                    "hints": [
+                        "The answer is a single letter.",
+                        "Read the riddle again, carefully.",
+                        "You should've figured it out by now..."
+                    ]
+                },
+                {
+                    "riddleText": "What rock group has four men that don't sing?",
+                    "answer": "mount rushmore",
+                    "hints": [
+                        "Think of really BIG rocks.",
+                        "Mountain-sized rocks.",
+                        "Mountain-sized rocks with faces on them."
+                    ]
+                },
+                {
+                    "riddleText": "What ancient invention allows people to see through walls?",
+                    "answer": "window",
+                    "hints": [
+                        "Every building has at least some of those.",
+                        "If you wanted to see through a wall, what would you do?",
+                        "Buildings that don't use this invention are very dark and ominous."
+                    ]
+                },
+                {
+                    "riddleText": "There is a word of letters three, add one letter to it and none there'll be. What is the word?",
+                    "answer": "one",
+                    "hints": [
+                        "The answer is in the riddle.",
+                        "Read the question again, carefully.",
+                        "Both the word and the word with one letter added are within the first sentence."
+                    ]
+                },
+                {
+                    "riddleText": "I sleep by day, I fly by night. I have no feathers to aid my flight. What am I?",
+                    "answer": "bat",
+                    "hints": [
+                        "It's not a bird.",
+                        "Think about super heroes and/or vampires.",
+                        "REALLY think about vampires."
+                    ]
+                },
+                {
+                    "riddleText": "Walk on the living, they don't even mumble, walk on the dead, they mutter and grumble. What are they?",
+                    "answer": "leaves",
+                    "hints": [
+                        "When living, they are usually too high up to be walked on.",
+                        "You are more likely to walk on the dead when it gets colder outside.",
+                        "Some of them turn red or orange before they die."
+                    ]
+                },
+                {
+                    "riddleText": "There is a woman in a boat, on a lake, wearing a coat. If you want to know her name, it's in the riddle I just wrote. What's the woman's name?",
+                    "answer": "there",
+                    "hints": [
+                        "Hmm... This is a tough one, huh?",
+                        "WHO is a woman in a boat, on a lake, wearing a coat?",
+                        "Read the first sentence again."
+                    ]
+                },
+                {
+                    "riddleText": "I can be quick and then I'm deadly, I am a rock, shell and bone medley. If I was made into a man, I'd make people dream, I gather in millions by ocean, sea and stream.",
+                    "answer": "sand",
+                    "hints": [
+                        "Something that is made out of rock, shell, and bone pieces.",
+                        "Popular vacation spots have a lot of it.",
+                        "Vast areas of the world are covered in it."
+                    ]
+                },
+                {
+                    "riddleText": "If you have three, you have three. If you have two, you have two. But if you have one, you have none. What am I?",
+                    "answer": "choices",
+                    "hints": [
+                        "You have multiple on some questions in exams.",
+                        "This is a difficult one. I feel like I have no choice but to tell you.",
+                        "I have NO choice, there is only ONE thing I can do..."
+                    ]
+                },
+                {
+                    "riddleText": "Take off my skin, I won't cry, but you will. What am I?",
+                    "answer": "onion",
+                    "hints": [
+                        "What makes people cry involuntarily?",
+                        "Come on, think about it!",
+                        "If you don't know this, you've never been in a kitchen..."
+                    ]
+                },
+                {
+                    "riddleText": "Two handsome racers are having a race. One keeps lapping the other and the race never ends. What am I?",
+                    "answer": "clock",
+                    "hints": [
+                        "Sometimes it's three racers and the smallest one is always the fastest.",
+                        "Each lap is divided into 60 sections.",
+                        "The racers never tire, as if they were fueled by a mechanical force."
+                    ]
+                }
+            ]
+
+        }
+    ]
+}
